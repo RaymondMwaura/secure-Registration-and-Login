@@ -1,2 +1,1 @@
-This is a project to build a robust registration and login sript in PHP with robust 
-code but a minimalist approach.
+This is a project to build a secure lightweight registration and login script in PHP with robust code but a minimalist approach.
