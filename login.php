@@ -27,7 +27,7 @@ if(isset($_POST["login"])){
     
 			print 
 		"<div class='alert alert-success' id='success-alert'>
-		<strong>Success!</strong> User registered successfully.
+		<strong>Success!</strong> User logged in successfully.
 		</div>";
 	
 	} 
